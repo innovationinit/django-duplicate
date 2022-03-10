@@ -20,11 +20,6 @@ setup(
     install_requires=[
         'Django>=2.0,<4.0',
     ],
-    test_requires=[
-        'mock',
-        'factory_boy>=2.8.1',
-    ],
-    python_requires=">=3.6",
     test_suite='testproject.runtests.run_tests',
     classifiers=[
         'Environment :: Web Environment',
