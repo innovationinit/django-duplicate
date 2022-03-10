@@ -1,0 +1,11 @@
+[run]
+branch = True
+source = duplicate
+
+[report]
+omit = */testproject/*
+exclude_lines =
+    pragma: no cover
+
+[html]
+directory = coverage

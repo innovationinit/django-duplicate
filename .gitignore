@@ -1,0 +1,15 @@
+*.sqlite3
+*.db
+*.log
+*.pyc
+*.pyo
+*.swm
+*.swo
+*.swp
+*.TAGS
+*.tmp*
+*.un~
+*~
+.idea
+*.egg-info
+.tox
